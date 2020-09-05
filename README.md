@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Turhan Can</h1>
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90px"></h2> 
+<p align="middle"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turhancan97" alt="turhancan97" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow, Keras, Data Science, OpenCV and Machine Learning**
