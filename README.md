@@ -17,14 +17,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/turhancankargin/](https://www.linkedin.com/in/turhancankargin/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/turhancan97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="turhancan97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/turhancankargin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/turhancankargin/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13147438" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13147438" height="30" width="40" /></a>
 <a href="https://kaggle.com/turhancankargin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="turhancankargin" height="30" width="40" /></a>
 <a href="https://fb.com/turhancans88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="turhancans88" height="30" width="40" /></a>
 <a href="https://instagram.com/turhan.cann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="turhan.cann" height="30" width="40" /></a>
