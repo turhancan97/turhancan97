@@ -3,15 +3,15 @@
 <p align="middle"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="91px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turhancan97&label=Profile%20views&color=0e75b6&style=flat" alt="turhancan97" /> </p>
 
-- 🔭 I’m currently working on [Methods of clustering single-cell RNA sequencing data](https://www.researchgate.net/project/Methods-of-clustering-single-cell-RNA-sequencing-data)
+- 🔭 I’m currently working on [Navigation of a Unicycle-Like Vehicle using Dynamic Window Approach](https://github.com/turhancan97/Navigation-of-a-Unicycle-Like-Vehicle)
 
-- 🌱 I’m currently learning **R, Tensorflow, Keras, Data Science, OpenCV and Machine Learning**
+- 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Deep Learning Learning**
 
 - 👨‍💻 All of my links are available at [https://linktr.ee/turhancankargin](https://linktr.ee/turhancankargin)
 
 - 📝 I regularly write articles on [https://turhancankargin.medium.com/](https://turhancankargin.medium.com/)
 
-- 💬 Ask me about **Python, C Programming, Data Visualization and Scikit-learn**
+- 💬 Ask me about **Python, R Programming, C/C++ Programming, Robotics, Machine Learning, Data Visualization and Scikit-learn**
 
 - 📫 How to reach me **turhancan.kargin@gmail.com**
 
