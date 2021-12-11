@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Navigation of a Unicycle-Like Vehicle using Dynamic Window Approach](https://github.com/turhancan97/Navigation-of-a-Unicycle-Like-Vehicle)
 
-- 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Deep Learning Learning**
+- 🌱 I’m currently learning **Tensorflow, Keras, Flask, OpenCV and AI in Robotics Applications**
 
 - 👨‍💻 All of my links are available at [https://linktr.ee/turhancankargin](https://linktr.ee/turhancankargin)
 
