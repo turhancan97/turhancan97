@@ -3,7 +3,7 @@
 <p align="middle"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="91px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turhancan97&label=Profile%20views&color=0e75b6&style=flat" alt="turhancan97" /> </p>
 
-- 🔭 I’m currently working on [Navigation of a Unicycle-Like Vehicle using Dynamic Window Approach](https://github.com/turhancan97/Navigation-of-a-Unicycle-Like-Vehicle)
+- 🔭 I’m currently working on [Autonomous Robot for Object Tracking using Convolutional Neural Network](https://github.com/turhancan97/Convolutional-Neural-Network-for-Object-Tracking)
 
 - 🌱 I’m currently learning **Tensorflow, Keras, Flask, OpenCV and AI in Robotics Applications**
 
