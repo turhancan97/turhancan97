@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Turhan Can</h1>
 <h3 align="center">AI Enthusiast from Turkey</h3>
-<p align="middle"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="91px"></h2> 
+<p align="middle"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="41px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turhancan97&label=Profile%20views&color=0e75b6&style=flat" alt="turhancan97" /> </p>
 
 - 🔭 I’m currently working on [Reinforcement Learning for Soft Continuum Robot Control](https://github.com/turhancan97/RL-based-Control-of-a-Soft-Continuum-Robot)
