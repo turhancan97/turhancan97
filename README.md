@@ -49,7 +49,7 @@
     <img
       width="200"
       align="center"
-      src="https://api.daily.dev/devcards/b0033178e071439e98f0dc2567f7e95f.png?r=g6t"
+      src="https://github.com/turhancan97/turhancan97/blob/master/devcard.svg"
       alt="Turhan Can Kargın's Dev Card"
     />
   </a>
