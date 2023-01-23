@@ -40,10 +40,17 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
  <a href="https://git.io/streak-stats">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=turhancan97&border_radius=80" alt="turhancan97" />
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=turhancan97&border_radius=80" alt="turhancan97" />
   </p>
   </a>
+  <a href="https://app.daily.dev/tkargin" target="_blank">
+    <img
+      width="200"
+      align="center"
+      src="https://api.daily.dev/devcards/b0033178e071439e98f0dc2567f7e95f.png?r=g6t"
+      alt="Turhan Can Kargın's Dev Card"
+    />
+  </a>
 </div>
-
