@@ -36,10 +36,10 @@
   
   <div align="left">
     <a>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=turhancan97&show_icons=true&locale=en" alt="turhancan97" /></p>
+      <p><img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=turhancan97&show_icons=true&locale=en" alt="turhancan97" /></p>
     </a>
     <a>
-      <p><img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=turhancan97&show_icons=true&locale=en&layout=compact" alt="turhancan97" /></p>
+      <p><img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=turhancan97&show_icons=true&locale=en&layout=compact" alt="turhancan97" /></p>
     </a>
   </div>
 </details>
