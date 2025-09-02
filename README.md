@@ -49,7 +49,7 @@
   
   <div align="left">
     <a href="https://git.io/streak-stats">
-      <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=turhancan97&border_radius=80" alt="turhancan97" /></p>
+      <p><img align="left" src="https://github-readme-streak-stats-eight.vercel.app?user=turhancan97&border_radius=50" alt="turhancan97" /></p>
     </a>
     <a href="https://app.daily.dev/tkargin" target="_blank">
       <img width="200" align="center" src="https://github.com/turhancan97/turhancan97/blob/master/devcard.svg" alt="Turhan Can Kargın's Dev Card"/>
