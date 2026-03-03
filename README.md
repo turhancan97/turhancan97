@@ -34,14 +34,7 @@
 <details>
   <summary>Click for the Github Statistics</summary>
   
-  <div align="left">
-    <a>
-      <p><img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=turhancan97&show_icons=true&locale=en" alt="turhancan97" /></p>
-    </a>
-    <a>
-      <p><img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=turhancan97&show_icons=true&locale=en&layout=compact" alt="turhancan97" /></p>
-    </a>
-  </div>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=turhancan97&size_weight=0.5&count_weight=0.5)
 </details>
 
 <details>
