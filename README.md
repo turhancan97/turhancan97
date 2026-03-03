@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Keras, Pytorch, Flask, OpenCV and AI in Robotics Applications**
 
-- 👨‍💻 All of my links are available at [https://bento.me/tkargin](https://bento.me/tkargin)
+- 👨‍💻 All of my links are available at [https://linktr.ee/tkargin](https://linktr.ee/tkargin)
 
 - 📝 I regularly write articles on [https://turhancankargin.medium.com/](https://turhancankargin.medium.com/)
 
